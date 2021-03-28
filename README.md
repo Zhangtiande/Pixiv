@@ -9,7 +9,7 @@
 
 ### 排行榜
 
-![image-20200812131008891](C:\Users\莺时二七\AppData\Roaming\Typora\typora-user-images\image-20200812131008891.png)
+![image-20200812131008891](https://github.com/Zhangtiande/Pixiv/blob/master/img/Main.png)
 
 有日榜，周榜，月榜等五个排行榜。
 
@@ -33,7 +33,7 @@
 
 双击即可预览，在图片ID上右键可下载图片，下载后位于程序根目录Pixiv文件夹下，预览缓存在程序关闭后会自动删除。
 
-![image-20200812131359861](C:\Users\莺时二七\AppData\Roaming\Typora\typora-user-images\image-20200812131359861.png)
+![image-20200812131359861](C:\Users\莺时二七\AppData\Roaming\Typora\typora-user-images\Preview.png)
 
 ### 关于下载进度
 
@@ -43,7 +43,7 @@
 
 下载成功会有提示框。
 
-![image-20200812131644166](C:\Users\莺时二七\AppData\Roaming\Typora\typora-user-images\image-20200812131644166.png)
+![image-20200812131644166](C:\Users\莺时二七\AppData\Roaming\Typora\typora-user-images\Download.png)
 
 ### 关于下载速度
 
