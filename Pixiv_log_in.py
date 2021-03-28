@@ -222,7 +222,7 @@ class Login_Thread(QThread):
         api.set_accept_language("en-us")
         try:
             # api.login(self.username, self.password)
-            api.auth(refresh_token='kkz9aS-vNcpLidtgxkOxPrS4Fs_rRzWhK-OwYcmwUp4')
+            api.auth(refresh_token='Your Token')
             self.success.emit(1)
         except pixivpy3.utils.PixivError as e:
             print(e)
