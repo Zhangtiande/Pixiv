@@ -3,7 +3,9 @@
 ## **下载地址**
 
 
-免VPN，需要Pixiv账号**登陆**
+免VPN，需要Pixiv**token登陆**
+
+在密码栏输入token即可，账号栏可以不用管
 
 ![image-Login](https://github.com/Zhangtiande/Pixiv/blob/master/img/Login.png)
 
