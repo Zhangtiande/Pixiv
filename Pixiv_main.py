@@ -176,7 +176,7 @@ class Ui_Main(QtWidgets.QMainWindow, Ui_MainWindow):
                         if self.type == 4:
                             urls = self.illusts[i.row()]["meta_single_page"]
                             urls = urls["original_image_url"]
-                        self.thread2 = Down(int(id))
+                        self.thread2 = Down(int(id),row)
                         self.thread2.process.connect(self.set_process)
                         self.thread2.success.connect(self.success)
                         self.thread2.start()
