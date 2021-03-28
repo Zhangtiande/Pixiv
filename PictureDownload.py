@@ -57,7 +57,7 @@ class Down(QThread):
             self.FileObj.close()
         end = time.time()
         s = "id:" + self.Id + "  下载成功,是否打开文件夹"
-        self.process.emit(100, self.row, int(length/(end-start)/1024/1024))
+        self.process.emit(100, self.row, int(length/(end-start)/1024))
         self.success.emit(s)
 
     def prepare(self):
