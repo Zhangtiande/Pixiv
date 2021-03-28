@@ -7,7 +7,7 @@
 
 免VPN，需要Pixiv账号**登陆**
 
-![image-Login](\img\Login.png)
+![image-Login](https://github.com/Zhangtiande/Pixiv/blob/master/img/Login.png)
 
 ### 排行榜
 
