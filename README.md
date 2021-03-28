@@ -1,8 +1,6 @@
 # Pixiv
 
-## [**下载地址**][https://www.lanzoux.com/b015ormvg]
-密码:hz3c
-
+## **下载地址**
 
 
 免VPN，需要Pixiv账号**登陆**
