@@ -59,7 +59,7 @@
 
 下载无反应的话，可以看看我的另一个下载器。
 
-[（吾爱专属）Pixiv下载（免代{过}{滤}理）][https://www.52pojie.cn/thread-1224116-1-1.html]
+[Pixiv下载][https://www.52pojie.cn/thread-1224116-1-1.html]
 
 
 
